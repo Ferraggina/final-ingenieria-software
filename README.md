@@ -7,3 +7,6 @@
 ## Descripción del proyecto
 Repositorio creado como práctica para el final de la materia Ingeniería de
 Software, para demostrar que se usar Git y GitHub.
+
+## Tecnologías Utilizadas
+- Git y GitHub
